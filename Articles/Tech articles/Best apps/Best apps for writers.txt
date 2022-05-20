@@ -1,0 +1,144 @@
+# Lead
+#bestapps#article#blog#listblog
+
+There are many reasons why you are coming to write. You may be a manager, busy writing proposals and reports, a journalist, a technical or a content writer. In any case, you are devoting a great amount of time to writing. Whatever your reasons are, efficiency and productivity are of huge importance.
+
+ Writing is perceived as a creative process, largely dependent on mood and impulse. The truth is, writing is a job and it needs to be done by a deadline. And we all strive to produce really good content. 
+
+ To be efficient, your working environment must suit well your individual needs. And to do that you need to have tools that help your workflow to run smoothly. 
+
+ Nowadays we have a huge choice of apps and tools to help us with all aspects of writing job, be it drafting, editing or time management.  And we need to use them wisely to create an ecosystem that reflects our unique personalities and helps us stay productive.
+
+## iA Writer
+ Mac, iOS, Windows, Android 
+
+ The first distraction on the way to efficiency is esthetics. We often don't even notice how much time we spend on choosing a template or adjusting typography. 
+
+
+ iA Writer offers you a minimalistic, distraction-free environment, encouraging you to set down your thoughts on paper. This editor is ideal for you if you find yourself distracted by relentlessly re-designing your document appearance and layout, as you would do in MS Word and Pages. 
+
+ iA Writer was built to help you to focus on the important part of work: your writing. It supports the Markdown format. With its simplicity, you will find it incredibly easy to get into the flow with this clear, nearly frugal interface (two themes and very few fonts), and very rewarding too. 
+
+ iA Writer offers a focus mode, where you can highlight a paragraph or a sentence that you are working on, while the rest of the text will be dimmed.
+
+ The app supports markdown and text formats and a seamless export to MS Word, WordPress or Medium.
+
+ A recent addition to the app can make it particularly appealing to writers - that is Style Check and Syntax Control. iA Writer will mark cliché, redundancies and fillers. I particularly like Syntax Control. When it's on, it highlights parts of speech in different colours, helping you to evaluate the rhythm and the structure of your text. 
+
+ iA Writer is available on multiple platforms. To avoid the headache of synchronising your files, you need to use cloud storage, such as iCloud or Dropbox. What's more, it allows you to tag your documents and use your tag to retrieve them. 
+
+ You can export your files to PDF, Docx or RTF format
+
+==Despite its simplicity it’s a beautiful product and it’s a real pleasure to work in this working environment==
+
+## Bear
+ Mac, iOS
+
+ Bear is another distraction-free app. Unlike iA Writer, Bear provides richer opportunities for personalisation.
+
+ It supports markdown language and it provides smart markdown writing by hiding asterisks and hashtags symbols. You can also add images or even create your inline handwritten notes and sketches. 
+
+ With Bear, you need to use tags to organise your files. It provides rich opportunities to work with tag cloud. Tagging system provides organise your documents on a topical basis. There is no need for you to think about your file tree structure and desperately try to remember where did you save that file you need to work on now. 
+
+ Once you finish writing, you can export your document in several formats, including Docx, PDF, RTF, JPG and ePub.
+
+ The premium version of Bear up allows encryption of your files providing better security for your sensitive content.
+
+ You can personalise your tags by assigning them individual icons. Bear allows nesting your tags, creating a more structured taxonomy for your content. Bear offers a selection of elegant themes and a selection of fonts. On a whole, Bear allows ample opportunities for personalisation, much more than iA Writer does. So, if you find iA Writer a bit too austere, Bear is the right choice for you.
+
+
+## MS Word
+ Windows, Mac, iOS, Android
+
+ There is much that can be said about the advantages of MS Word editor, and for a good reason! 
+
+ But I would like to mention it for a different reason: dictation. Dictation can spectacularly increase your output. According to [happyscribe.com](https://www.happyscribe.com/blog/benefits-of-writing-a-book-by-dictation/), an average person types about 40 words per minute, while talking speed is about 150 words per minute. 
+
+ It might take some time to get used to dictating your texts, but let's not forget that dictation was widely practised in the past, and it is still popular today, for example, among doctors and lawyers. And its benefits are plentiful: from a remarkable boost in productivity to the ability to do your work while stretching your limbs.
+
+ MS Word dictation tool boasts numerous features. It provides instant transcription and it’s impressively accurate. You can give voice commands for punctuation and formatting. You record a conversation or meeting with a few participants. Microsoft recognises different voices and transcribes them in a dialogue form. 
+
+ You don't need anything special to learn dictation. Practice is all you need. And it can help you to achieve 
+
+ If you are willing to give it a go, this is a tool for you.    
+
+## Pen to Print
+ iOS, Android
+
+ Sometimes you are getting stuck during your writing process. Or sometimes you just struggle to focus on your work. 
+
+ In these situations sometimes the simple things are most helpful: change the location or change the mode of writing. 
+
+ If you like handwriting, you might try just that. With the up like Pen to Print, you don’t need to lose your notes. And you don’t need to do the tedious job of typing them in. 
+
+ All you need to do is capture the image of your pages on your mobile camera and upload them to the Pen to Print. The app then extracts your written notes line by line and translates them into digital form. You have an option of correcting your notes straight after the recognition has finished, or saving the text as it is. 
+
+ With the free version of the app, you can download your converted text. The premium versions allow you to export your notes to use in some standard word processor.
+
+## Trello
+Web-based application with mobile versions available on iOS and Android.
+
+Trello is a great project management and collaboration tool. Trello project tool works on the Kanban principle.
+
+With Kanban, you visualise your project by mapping a project on a project board. You position your workflows as a sequence of vertical lists of cards. A card corresponds to a task in a workflow. If you assign a card to a person or establish a delivery date, you record all that information on your card.
+
+/Screenshot Trello cards.png
+
+ Trello allows you to keep track of your project in a simple, and intuitive way. 
+
+ With the premium version, you can view a timeline for the project. This is a simple and intuitive way to keep track of your workflows. From your timeline view, you can adjust dates, add new cards and lists, and switch between list, member or label view.  
+
+ In Trello, you organise your projects in workspaces. You can create a project for your article delivery or any other project you’re working on. Trello is a good option for small to medium size projects. If you are a freelancer and the submission times are critical for you, this is a great simple tool to help you to stay on track. 
+
+ With a premium version gives you access to numerous power-ups to enhance your boards and add more functionalities. For example, you can view your project as a timeline or you can view the timeline across your boards. The simplest version of Trello is free. For a medium-small size writing project, the free version is perfect and does the job.
+
+## Confluence
+Web-based application with mobile versions available on iOS and Android. 
+
+ Confluence is a part of Atlassian suite of products. It is a sophisticated and versatile collaborative documentation tool. Confluence provides a way for the teams to keep and organise their documentation in one place. Confluence offers you an option to keep your documentation repository in the cloud or on your server.
+
+ The content in Confluence is organised in spaces. Depending on the nature of your project, you can choose from several types of spaces. For example, team space or knowledge base space. 
+
+ At the heart of Confluence is a text editor. Each piece of content is called a page. The suite of documents in your workspace can be organised in a tree-like fashion by creating sub-pages. In addition, you assign a label to a page. Labels provide you with great flexibility to access your documents by the subject matter rather than location. 
+
+ Members of your team can mark a particular page to be notified of updates.
+
+ When creating a new page, you can set permissions for members of your team, to comply with your documentation governance rules. 
+
+ Confluence provides a few useful integrations, such as Trello and Jira, which makes it very popular with the software teams. What's more, there are numerous opportunities for customization. Atlassian marketplace offers many options to customise your space.  You may tweak the look and feel of your pages, embed timelines and roadmaps from Trello and Jira, or add new project management and collaboration tools to your space.
+
+ For the most common types of documents, Confluence provides templates, sparing you from outlining your content and leaving you 
+
+ Confluence gives you access to the previous versions of your documents. Every time you publish a page, a new version is created. You can access different versions of your document.
+
+If you feel your content needs more revision, you can publish it without notifying the watchers. Your page does not become publicly accessible.  When you are satisfied with the document, you press publish button. At this moment the new version of your page is created. The previous versions remain available so you can compare them and roll back if need be.
+
+ With all its powerful and versatile features., the basic version of Confluence is free for teams of up to 10 people.
+
+## Focus To-Do: Focus Timer & Tasks
+iOS, Mac, Android, Windows
+
+Focus To-Do is a time management app.
+
+ The app is based on the Pomodoro technique. The Pomodoro technique was invented in the 1990s by developer and entrepreneur Francesco  Cirillo.
+
+ With Focus To-Do you create projects and list individual tasks within the project. You estimate the time for each task and set delivery date, repetition and reminders to make sure you don't miss anything. The app has a flexible option for some tasks to be done "Someday". 
+
+The principle of the Pomodoro is to break up your working time into small intervals, usually, 25-30 min, followed by short breaks. During these intervals, you focus on a chosen task. The app will act as a timer, notifying you of the end of each interval.
+
+You may choose a strict mode for your intervals which will either prohibits you from cancelling the interval or will prevent you from using your mobile: you will be asked to flip it during the interval.
+
+The Pomodoro technique was designed to help you to train yourself and gradually improve your concentration. 
+
+Focus To-Do has a relatively simple and intuitive interface,is easy to use and it’s free.
+
+
+
+
+
+
+
+
+
+
+
