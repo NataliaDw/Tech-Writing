@@ -1,7 +1,55 @@
-= Manage Drafts Syntaxes
-== Why use different syntaxes?
 
-== Quick reference
+= Asciidoc Attributes
+
+
+== Doc attributes
+
+////
+Big ol' comment
+
+sittin' right 'tween this here title 'n header metadata
+////
+:firstname_2: Natalie
+:lastname_2: Dowding
+:author_2: {firstname_2} {lastname_2} <nd@gmail.com>
+
+:author_1: Dan Allen <thedoc@asciidoctor.org>
+Authors: {author_1} +
+         {author_2}.
+
+:description: A demo of Asciidoctor. This document +
+              exercises numerous features of AsciiDoc +
+              to test Asciidoctor compliance.
+:library: Asciidoctor
+ifdef::asciidoctor[]
+:source-highlighter: coderay
+endif::asciidoctor[]
+:idprefix:
+:stylesheet: asciidoc.css
+:imagesdir: images
+
+//:backend: docbook45
+//:backend: html5
+//:doctype: book
+//:sectids!:
+:plus: &#43;
+
+[role='lead']
+This is a demonstration of {library}. And this is the preamble of this document.
+
+[[purpose]]
+.Purpose
+****
+This document exercises many of the features of AsciiDoc to test the {library} implementation.
+****
+
+TIP: If you want the output to look familiar, copy (or link) the AsciiDoc stylesheet, asciidoc.css, to the output directory.
+
+NOTE: Items marked with TODO are either not yet supported or a work in progress.
+
+[[first,First Steps]]
+== First Steps with http://asciidoc.org[AsciiDoc]
+
 
 === *Sidebars:*
 [sidebar]

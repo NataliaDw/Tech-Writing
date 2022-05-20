@@ -1,4 +1,10 @@
 = Manage Drafts Syntaxes
+
+:author: ND:
+Written by {author}
+Email:natalia.dowding@gmail.com:
+
+
 == Why use different syntaxes?
 
 :name-of-an-attribute: value of the attribute
